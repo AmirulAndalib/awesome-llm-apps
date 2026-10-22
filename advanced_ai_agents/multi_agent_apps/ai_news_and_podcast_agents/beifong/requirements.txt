@@ -9,7 +9,7 @@ aiosqlite==0.21.0
 amqp==5.3.1
 annotated-types==0.7.0
 anthropic==0.49.0
-anyio==4.9.0
+anyio==4.14.2
 APScheduler==3.11.0
 asgi-csrf==0.11
 asgiref==3.8.1
@@ -27,7 +27,7 @@ browser-use==0.2.4
 cachetools==5.5.2
 catalogue==2.0.10
 celery==5.5.2
-certifi==2025.1.31
+certifi==2026.10.19
 cffi==1.17.1
 charset-normalizer==3.4.1
 click==8.1.8
@@ -142,7 +142,7 @@ orjson==3.10.16
 packaging==24.2
 pandas==2.2.3
 phonemizer-fork==3.3.2
-pillow==11.2.1
+pillow==13.0.0
 pip-chill==1.0.3
 playwright==1.52.0
 pluggy==1.6.0
@@ -164,7 +164,7 @@ pydantic-settings==2.9.1
 pydantic_core==2.27.2
 pydub==0.25.1
 pyee==13.0.0
-PyJWT==2.9.0
+PyJWT==2.15.0
 pyparsing==3.2.3
 pyperclip==1.9.0
 python-dotenv==1.1.0
@@ -224,7 +224,7 @@ tzdata==2025.2
 tzlocal==5.3.1
 uc-micro-py==1.0.3
 uritemplate==4.1.1
-urllib3==2.4.0
+urllib3==2.8.0
 uvicorn==0.34.2
 vine==5.1.0
 wasabi==1.1.3
